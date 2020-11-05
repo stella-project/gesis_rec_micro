@@ -1,3 +1,3 @@
-# Micro template for a simple GESIR recommender
+# Micro template for a simple GESIS recommender
 
 Description will follow. 
