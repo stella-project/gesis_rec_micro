@@ -28,9 +28,6 @@ class Recommender(object):
         self.idx = None
 
     def index(self):
-        pass
-
-    def index(self):
         self.idx = []
         with jsonlines.open('./data/gesis-search/datasets/dataset.jsonl') as reader:
             for obj in reader:
